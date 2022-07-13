@@ -1,6 +1,6 @@
 # TSP
 ### v 1.0.0
-This program solves any travelling salesman problem using a greedy algorithm and heap to maximize efficiency.
+This program contains a function that solves any travelling salesman problem using a greedy algorithm and heap queue to maximize efficiency.
 
 The function accepts a 2-D list representing an adjacency matrix such as the following:
 ```
@@ -13,6 +13,4 @@ The function accepts a 2-D list representing an adjacency matrix such as the fol
 ]
 ```
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
-
-Once installed, use the command `npm start` to start the service.
+To clone and use this function, you'll need [Git](https://git-scm.com) and [python3](https://www.python.org/downloads/) installed on your computer.
